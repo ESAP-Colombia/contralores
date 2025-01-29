@@ -1,0 +1,8 @@
+1. DATOS CANDIDATO:
+NOMBRES Y APELLIDOS: Alvaro Diego Sepulveda
+PROGRAMA: Administración Pública Territorial
+DIRECCION TERRITORIAL: CETAP Medellín
+SEMESTRE: 5
+CORREO ELECTRÓNICO: Alvaro.sepulveda@esap.edu.co
+2. PROPUESTA:
+PROPUESTA: X (MÁXIMO CUATRO HOJAS)
